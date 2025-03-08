@@ -7,11 +7,19 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+- 🌱 I’m currently learning **Java**
+
+- 🧑‍🎓 I’m an Undergraduate at **UCSC**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **devindaabewardana1@gmail.com**
+
+---
 
 
 
 
-<h3 align="center">I’m currently learning Java</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
