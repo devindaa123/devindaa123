@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Devinda Abewardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=devindaa123=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=devindaa123=Profile%20views&color=0047AB&style=plastic?" alt="devindaa123" height=25px, width=160px/> 
 <h3 align="center">I’m currently learning Java</h3>
 
 <h3 align="left">Connect with me:</h3>
