@@ -1,17 +1,6 @@
 <h1 align="center">Hi , I'm Devinda Abewardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<p align="center"> 
-	 <img src="https://komarev.com/ghpvc/?username=devindaa123=Profile%20views&color=0e75b6&style=flat" alt="devindaa123" /> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/devindaa123?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="devindaa123" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
+ <picture align="senter"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 
 <h3 align="center">I’m currently learning Java</h3>
 
