@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Devinda Abewardana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindugit21&label=Profile%20views&color=0e75b6&style=flat" alt="ravindugit21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devindaa123&label=Profile%20views&color=0e75b6&style=flat" alt="devindaa123" /> </p>
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
